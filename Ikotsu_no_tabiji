@@ -10,19 +10,25 @@
       "volume": "1",
       "groups": {
         "Hero Scans": "/proxy/api/imgur/chapter/QpzGSiG/"
-      }
+      },
+      "last_updated": "1620685509"
+    },
     "2": {
       "title": "Chapter 2",
       "volume": "1",
       "groups": {
         "Hero Scans": "/proxy/api/imgur/chapter/FiBwx2E/"
-      }
+      },
+      "last_updated": "1620685509"
+    },
     "3": {
       "title": "Chapter 3",
       "volume": "1",
       "groups": {
         "Hero Scans": "/proxy/api/imgur/chapter/RprE435/"
-      }
+      },
+      "last_updated": "1620685509"
+    },
     "4": {
       "title": "Chapter 4",
       "volume": "1",
@@ -30,6 +36,6 @@
         "Hero Scans": "/proxy/api/imgur/chapter/U8VwsXZ/"
       },
       "last_updated": "1620685509"
-    },    
+    }    
   }
 }
