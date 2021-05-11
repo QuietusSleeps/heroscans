@@ -1,1 +1,18 @@
 
+{
+  "title": "Kamisama Nanka Shinjina Bokura no Eden",
+  "description": "The night of his brother's funeral, Kasuka Tokio interrupts a young man in the act of stealing his brother Hajime's ashes. The man, Kuroki Ren, claims to have promised to go on a trip with Hajime, and asked for his bones so that he could take them on the trip instead. Tokio, intrigued by him, agrees to lend a bone to him, under one condition...",
+  "artist": "Ichinose Yuma",
+  "author": "Ichinose Yuma",
+  "cover": "https://m.media-amazon.com/images/I/51a4VVHEh3L.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/QpzGSiG/"
+      },
+      "last_updated": "1620685509"
+    }   
+  }
+}
