@@ -1,0 +1,33 @@
+{
+  "title": "Strange Paradise",
+  "description": "",
+  "artist": "Idea",
+  "author": "Idea",
+  "cover": "https://heroscans.files.wordpress.com/2021/05/sp3_-1.png?w=1698",
+  "chapters": {
+    "1": {
+      "title": "Strange Paradise 3",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/QpzGSiG/"
+      },
+      "last_updated": "1620685509"
+    },
+    "2": {
+      "title": "Strange Paradise 4",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/FiBwx2E/"
+      },
+      "last_updated": "1620685509"
+    },
+    "3": {
+      "title": "Strange Paradise 5",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/RprE435/"
+      },
+      "last_updated": "1620685509"
+    }
+  }
+}
