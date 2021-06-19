@@ -1,0 +1,33 @@
+{
+  "title": "Strange Paradise",
+  "description": "Levi, a vagrant with a mysterious past, encounters Eren, a runaway orphan in a train station who entreats him to take him along.",
+  "artist": "Idea",
+  "author": "Idea",
+  "cover": "https://heroscans.files.wordpress.com/2021/05/sp3_-1.png?w=1698",
+  "chapters": {
+    "1": {
+      "title": "Strange Paradise 3",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/TurL431/"
+      },
+      "last_updated": "1620685509"
+    },
+    "2": {
+      "title": "Strange Paradise 4",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/xFeaaBI/"
+      },
+      "last_updated": "1620685509"
+    },
+    "3": {
+      "title": "Strange Paradise 5",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/j1tEyK2/"
+      },
+      "last_updated": "1620685509"
+    }
+  }
+}
