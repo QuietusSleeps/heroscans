@@ -1,0 +1,73 @@
+{
+  "title": "Badass",
+  "description": "Alphonse is a humanoid dragon who, after encountering trouble in his former position, has been transferred to the Special Prevention Office Against Vermin. On his first day, he not only gets lost and is late, but he also stumbles across a robbery. During the resulting chase, he gets some unusual help from his new partner, who is also his boss? A tale of inter-species partnership!",
+  "artist": "Haji",
+  "author": "Haji",
+  "cover": "https://www.mangaupdates.com/image/i275289.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/duE9R3f/"
+      },
+      "last_updated": "1620685509"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/WIQVr26/"
+      },
+      "last_updated": "1620685509"
+    },
+    "2.5": {
+      "title": "Chapter 2.5",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/DKJfrzf/"
+      },
+      "last_updated": "1620685509"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/6rb8ARJ/"
+      },
+      "last_updated": "1620685509"
+    }, 
+    "3.5": {
+      "title": "Chapter 3.5",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/KxUOceX/"
+      },
+      "last_updated": "1620685509"
+    },  
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/yWAJJqg/"
+      },
+      "last_updated": "1620685509"
+    },    
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/lnUNTLtO/"
+      },
+      "last_updated": "1620685509"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/XrOD7fj/"
+      },
+      "last_updated": "1620685509"
+    },
+  }
+}
