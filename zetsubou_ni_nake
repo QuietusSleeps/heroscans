@@ -45,7 +45,14 @@
         "Hero Scans": "/proxy/api/imgur/chapter/DZ2vpdk/"
       },
       "last_updated": "1620753925"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/JMSJUmH/"
+      },
+      "last_updated": "1620753925"
     }
-  
   }
 }
