@@ -1,4 +1,3 @@
-
 {
   "title": "Shikabane to Hanayome",
   "description": "They were the only two brothers in a sprawling family mansion. At the end of a gruesome battle for succession, the younger brother, now head of the family, held a solemn wedding. The bride’s face remained hidden from everyone behind a thick veil, and she became rumored as “the faceless wife.” But in the bridal chamber on their wedding night, the face revealed is that of his elder brother, who was supposed to be dead.",
@@ -11,6 +10,14 @@
       "volume": "1",
       "groups": {
         "Hero Scans": "/proxy/api/imgur/chapter/LytLupO/"
+      },
+      "last_updated": "1620685509"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Hero Scans": "/proxy/api/imgur/chapter/T0wtbf7/"
       },
       "last_updated": "1620685509"
     }
